@@ -49,9 +49,9 @@ img {
 
 /* Sidebar */
 div {
-  width: 300px;
+  width: 150px;
   height: 100vh;
-  padding-left: 50px;
+  padding-left: 0px;
   background-color: #2d263e
 }
 div a {
@@ -60,7 +60,6 @@ div a {
   display: block;
   padding: 12px;
 }
-
 div a:hover {
-  color: #473a63;
+  background-color: #473a63;
 }
