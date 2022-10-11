@@ -1,31 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 body {
-  background-image: linear-gradient(AliceBlue, MediumPurple);
+  background-image: #ebe1ff;
+  background-size: cover;
+  text-align: center;
 }
 
 h1 {
   font-family: 'Nunito', sans-serif; font-size: 29px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 29px;
+  text-align: center;
 }
 
 h3 {
   font-family: 'Nunito', sans-serif; font-size: 22px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 29px;
+  text-align: center;
 }
 
 p {
   font-family: 'Nunito', sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 29px;
-}
-
-blockquote {
-  font-family: 'Nunito', sans-serif; font-size: 22px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 29px;
-}
-
-pre {
-  font-family: 'Nunito', sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 29px;
+  text-align: center;
 }
 
 ul {
   font-family: 'Nunito', sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px;
+  text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
