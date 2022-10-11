@@ -34,9 +34,16 @@ ul {
   margin: 0;
   padding: 0;
   width: 50px;
+  color: white;
+  display: block;
+  text-decoration: none;
 }
 
 li a {
+  width: 150px;
+  height: 100vh;
+  text-align: center;
+  background-color: #2d263e
   display: block;
 }
 
