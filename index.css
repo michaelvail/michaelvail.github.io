@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 body {
-  background-image: linear-gradient(to bottom, AliceBlue, MediumPurple);
+  background-image: linear-gradient(AliceBlue, MediumPurple);
 }
 
 h1 {
