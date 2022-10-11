@@ -35,7 +35,7 @@ ul {
   padding: 0;
   width: 50px;
   color: white;
-  display: block;
+  display: inline-block;
   text-decoration: none;
 }
 
@@ -67,6 +67,7 @@ div a {
   display: block;
   padding: 12px;
   text-decoration: none;
+  display: inline-block;
 }
 div a:hover {
   background-color: #473a63;
