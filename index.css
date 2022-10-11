@@ -66,7 +66,7 @@ div a {
   display: block;
   padding: 12px;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
 }
 div a:hover {
   background-color: #473a63;
