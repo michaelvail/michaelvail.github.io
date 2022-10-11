@@ -51,7 +51,7 @@ img {
 div {
   width: 150px;
   height: 100vh;
-  padding-left: 0px;
+  text-align: center;
   background-color: #2d263e
 }
 div a {
@@ -59,6 +59,7 @@ div a {
   font-family: 'Nunito', sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px;
   display: block;
   padding: 12px;
+  text-decoration: none;
 }
 div a:hover {
   background-color: #473a63;
