@@ -29,18 +29,21 @@ p {
 }
 
 .sidebar {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  flex-direction: column;
   background-color: #2d263e;
   width: 150px;
   height: 100vh;
   position: fixed;
-  text-align: center;
 }
 
 .sidebar a {
   color: white;
-  font-family: 'Nunito', sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px;
+  font-family: 'Nunito', sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 5px;
   display: block;
-  padding: 12px;
+  padding: 20px;
   text-decoration: none;
 }
 
@@ -53,7 +56,8 @@ p {
   width: 120px;
   height: 120px;
   position: relative;
-  top: 75%;
+  top: 20px;
+  bottom: 20px;
   border: 2px solid #fff;
   border-radius: 50%;
 }
