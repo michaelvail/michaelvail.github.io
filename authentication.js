@@ -5,7 +5,7 @@ const location = "https://michaelvail.github.io/success.html"
 
 loginButton.addEventListener("login", (e) => {
   e.preventDefault();
-  if (username == "csci325" && password == "security") {
+  if (document.getElementById("username") == "csci325" && document.getElementById("password") == "security") {
     location.assign()
   }
   else {
