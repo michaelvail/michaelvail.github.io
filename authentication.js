@@ -1,7 +1,7 @@
 const loginForm = document.getElementById("login-form");
 const loginButton = document.getElementById("login-button");
 const error = document.getElementById("error-message")
-const location = "success.html"
+const location = "https://michaelvail.github.io/success.html"
 
 loginButton.addEventListener("login", (e) => {
   e.preventDefault();
