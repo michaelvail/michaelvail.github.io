@@ -4,7 +4,7 @@ const error = document.getElementById("error-message")
 const location = "success.html"
 
 loginButton.addEventListener("login", (e) => {
-  //e.preventDefault();
+  e.preventDefault();
   if (username == "csci325" && password == "security") {
     location.assign()
   }
