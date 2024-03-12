@@ -6,7 +6,6 @@ const location = "success.html"
 loginButton.addEventListener("login", (e) => {
   //e.preventDefault();
   if (username == "csci325" && password == "security") {
-    location.reload();
     location.assign()
   }
   else {
