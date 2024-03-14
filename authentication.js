@@ -5,10 +5,11 @@ const url = "https://michaelvail.github.io/success.html"
 
 loginButton.addEventListener("login", (e) => {
   e.preventDefault();
-  if (document.getElementById("username") == "csci325" && document.getElementById("password") == "security") {
+  if (document.getElementById("username") === "csci325" && document.getElementById("password") === "security") {
     window.location.href = url;
   }
   else {
     error.style.opacity = 1;
+    alert("Invalid username or password. Please try again.");
   }
 })
