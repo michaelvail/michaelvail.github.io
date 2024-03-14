@@ -1,15 +1,14 @@
-const loginForm = document.getElementById("login-form");
-const loginButton = document.getElementById("login-button");
+const loginForm = document.getElementById("login-form").value;
+const loginButton = document.getElementById("login-button").value;
 const error = document.getElementById("error-message")
 const url = "https://michaelvail.github.io/success.html"
 
-loginButton.addEventListener("login", (e) => {
+loginButton.addEventListener(loginButton, (e) => {
   e.preventDefault();
-  if (document.getElementById("username") === "csci325" && document.getElementById("password") === "security") {
+  if (document.getElementById("username").value === "csci325" && document.getElementById("password").value === "security") {
     window.location.href = url;
   }
   else {
     error.style.opacity = 1;
-    alert("Invalid username or password. Please try again.");
   }
 })
