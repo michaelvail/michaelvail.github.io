@@ -1,5 +1,5 @@
 <h1>Hello world! 👋</h1>
-<p>I'm Michael and I come from New York. My role in this world changes daily—but more often than not, I’m a programmer, researcher, writer, or some combination thereof.</p>
+<p>I'm Michael and I come from New York. My role in this world changes regularly—but more often than not, I’m a programmer, researcher, writer, or some combination thereof.</p>
 <h2>About me</h2>
 <p><strong>Starting 2025:</strong>&nbsp;Psychology @ CUNY Graduate Center<strong><br />2024&ndash;2025:</strong>&nbsp;VENLab Manager @ Brown University<br /><strong>2020&ndash;2024:</strong>&nbsp;Computer Science and Psychology @ College of the Holy Cross</p>
 <p>✨ Pushing directly to main since 2022<br />📚 Currently preparing for graduate school<br />🎯 Goals: Learn how to mod more games!</p>
