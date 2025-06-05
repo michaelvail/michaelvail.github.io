@@ -36,6 +36,12 @@ I'm Michael and I come from New York. My role in this world changes regularly—
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio logo" height="40" />
 
+## Some of my previous research
+
+[Vail et al. (2025). Narrative Quality Affects Narrative Satisfaction, Narrative Transportation, and Social Presence of Story-Driven Video Games](https://github.com/michaelvail/michaelvail.github.io/blob/main/Vail%20et%20al.%20(2025).%20Narrative%20Quality%20Affects%20Narrative%20Satisfaction%2C%20Narrative%20Transportation%2C%20and%20Social%20Presence%20of%20Story-Driven%20Video%20Games.pdf)
+
+[Vail et al. (2024). A Social Synchrony Task for Evaluating Differences in Social Connectedness](https://github.com/michaelvail/michaelvail.github.io/blob/main/Vail%20et%20al.%20(2024).%20A%20Social%20Synchrony%20Task%20for%20Evaluating%20Differences%20in%20Social%20Connectedness.pdf)
+
 ## Articles
 
 During my undergraduate years at the College of the Holy Cross, I wrote for *The Spire*, the official student newspaper. I began as a staff writer, soon promoted to editor and then chief editor of the satire and creative writing section. My goal with every article was to make you laugh; if not laugh, smile; if not smile, wonder, _I don't know what I just read—but I'm glad I read it. I'm a changed person now._
