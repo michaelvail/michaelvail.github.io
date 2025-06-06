@@ -1,13 +1,23 @@
-“Theory:
-Michael Vail ‘24
-Observational Scientist
+# “Theory:
+
+**Michael Vail ‘24**
+
+*Observational Scientist*
 
 as human beings, like any other creatures, we are designed to evolve. That’s what Darwin said just before he discovered gravity. Think about how easy it is to close your eyelids. We do it tens of thousands of times per day. That’s because most of us need to blink. Why do we blink? Why do our eyes impulse themselves to shut when we are destined to force them back open so quickly? Why do we oppose our impulses? And consider how difficult it can be to keep your eyes open immediately after you wake up. This is not mere tiredness; this is nature; this is your body urging, pleading for you to shut your eyes. Think of the wise, old, blind man you’ve seen in countless fictional works. Think of the ones who can engage in combat without the need for their eyes, because their other senses are so developed. Is the next step for humanity to stop relying on vision so greatly when the signs of failing are all too clear? Optical illusions. Color blindness. Emmetropia. Maybe if we had noticed the signs a little sooner, Darwin could have sensed the apple coming before it gave him that vicious concussion. But glasses weren’t invented yet, so he was let down by the limited technology of our ancestors’ time, rather than saved by the evolution we prevent every waking day. The next step for the human race is to let our other senses evolve. Vision is not cutting it.”
+
 This is what I wrote at the end of the fall break, immediately following a taste test of my roommate’s fourth iteration of banana bread that week. It was the best batch yet. I knew it wouldn’t be long before my mental capacities returned to normal after that banana-bread-induced level of ascendance, so I wrote that piece as swiftly as I could manage. Now I know the cure for writer’s block. And now my roommate is too busy to make banana bread, so the writer’s block has returned, and once again, I feel human.
+
 And so, I don’t have much to contribute in terms of creativity and imagination for the time being, dear readers. Shall we get real for a moment? Let’s talk, like old friends. In a one-sided way, as that is the best I can offer in this newspaper medium.
+
 Why, thank you for asking. My fall break was wonderful! On the first day, I wandered to a nearby creek. I planned to skip rocks until the sky grew dark. A few hours in, a rabbit grinned at me. I felt mocked and went home early. My roommate noticed my displeasure and made me banana bread. It was okay.
+
 On the second day, I learned how to program with HTML and CSS. I developed my own amateur website from scratch. My only motivation was spite for that rabbit. I can learn to code, and rabbits cannot.
+
 On the third day, my roommate attempted to make banana bread again, eager to improve his recipe. I was inspired by his determination, and maybe slightly intoxicated by the bread’s scent, and so I went back to the creek to show the rabbit my website, to really rub it in the dumb animal’s face. I’m more than a rock-skipping caveman. I’m a technological god. But the rabbit wasn’t there when I arrived. Nor was it there for the next six hours. What responsibilities could a rabbit possibly have that would conflict with its creekside lounges? [Author’s note: this is a good time to inform you that my slash/question mark key is getting stuck, and it is becoming a constant nuisance. Even when I am not using it, the fact that it doesn’t work correctly lingers in my mind, and urges me to press it to check if it has miraculously been fixed.]
+
 On the fourth day, my roommate made another batch of banana bread, which I stole a piece of for the purpose of attracting the attention of the rabbit. My mission was fairly successful. The rabbit appeared as I expertly predicted, and as I fed it the banana bread, I walked it through the inner workings and complexities of my code. I felt a strange sort of bond with it, an unfamiliar understanding that I had never felt before. The rabbit had learned website development, and I had learned how to become one with nature. No rocks were skipped that day. I didn’t want to disturb the peace. Is this what forgiveness is?
+
 On the fifth day, my roommate made his final batch of banana bread. I left a piece of it in a neatly wrapped gift box by the creek, along with a brief letter, promising my return during the next break. I returned to my room and inhaled my share of the bread, feeling its intoxicating scent more than ever. I became fiercely in tune with my senses. That is when I began to scribe a number of theories—the one I previously shared, and others which the world is not ready for.
+
 How was your fall break?
