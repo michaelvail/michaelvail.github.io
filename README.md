@@ -49,44 +49,86 @@ During my undergraduate years at the College of the Holy Cross, I wrote for *The
 Starred articles indicate that I am proud of my work to a higher degree than usual.
 
 [Scooby-Doo: Fair Trade or Exploitment?](https://drive.google.com/file/d/15ia5TPialnsmJS3agPfc9QJ5dAO-sm_W/view)  
+
 ⭐ [Graduation Day](https://drive.google.com/file/d/15Udr4BPIoMH2XvTyXcZrQfReyCKzhW3I/view)  
+
 [Netflix Announces Innovative Policy Changes](https://drive.google.com/file/d/1AqLK2_sxFMuMMkf1gKq3Sa1IXeNJJAQl/view)  
+
 [Optimizing Your Reaction Time for Enrollment](https://drive.google.com/file/d/15vBJ9b5TLd0HXMsjWfLRoq2ywnrzSuuv/view)  
+
 [BREAKING: Congressmen Expose TikTok’s Development Failures](https://drive.google.com/file/d/1yQraMU9I5-bH-MHkVvu4xCY9e2zCO1Vt/view)  
+
 [Gaming & Esports Club Touches Grass: An Interview With Sebastian Johns '23](https://drive.google.com/file/d/11WK4EVI6gm6MHKqioilXAnPyZalBAiFb/view)  
+
+
 [A Deep Dive Into Upcoming Events on myHC](https://drive.google.com/file/d/1Ejrfc8M0F4RDrJXfIn71XX2acAy0Wx6v/view)  
+
 [Holy Cross Theatre Premieres Musical *Company*](https://drive.google.com/file/d/110L740lQzZ76gq31zxlSo86vzpYbW6fN/view)  
+
 ⭐ [Report: "Can Robots Feel Pain?"](https://drive.google.com/file/d/1uJKIPsK20sfz0YBC4dELp8KGqjvnxkIM/view)  
+
 [Surviving the Worcester Winter](https://drive.google.com/file/d/1Mb9XrMrIoek6EvBnjUFVGkTczUrc0MV0/view)  
+
 [My Resume (Royalty-Free)](https://drive.google.com/file/d/1ZpurnUvXLBBJHP8mxAmYXzSyotw-LxLS/view)  
+
 [The Last Spire](https://drive.google.com/file/d/110D0Yrsx_0wQOQPT5yX15jLFnYmlUpqL/view)  
+
 [Unfocused Group #1: Self-Driving Cars and Microwaves](https://drive.google.com/file/d/1NRgKxF5D1dpr4MZz4MfBnss6vsCUuC2d/view)  
+
 [BREAKING: Joe Biden Stays in Power Following 2022 Election](https://drive.google.com/file/d/1hhX6ZIT27MFBdZgleNIZb5FyOnj_pNUu/view)  
+
 [My Spring 2023 Course Recommendations](https://drive.google.com/file/d/13PYMdWRBQ1rKbPszgiAUWVEQglIXFK-k/view)  
+
 [Family Weekend Account From a Holy Cross Father](https://drive.google.com/file/d/1NiwBIEn3VzTGVJjRyBKZTjfV_BiOiniX/view)  
+
 [The Holy Cross Mission](https://drive.google.com/file/d/1ktgkf2ycdVK3NWYxRAcL5qCH4ozZVyBo/view)
+
 ["Theory:](https://drive.google.com/file/d/1k-y927nfbTmM3wSHmCl_Xfckyc5gTnLJ/view)  
+
 ⭐ [President Rougeau Beats Colgate in Intense Football Match](https://drive.google.com/file/d/17aeqfpKSVV0f1SdSli8O0DOGv58rh-fk/view)  
+
 ⭐ [The Dunkin' Runner](https://drive.google.com/file/d/17Bm8VSbGtb0WcEvJ6xJXjuCCAt0Mjv8F/view)  
+
 [What is Going On With Orientation?](https://drive.google.com/file/d/1nUMnHwbG-oOYvpE_62vmimCbySY26W-i/view)  
+
 [Author's Note](https://drive.google.com/file/d/10tiNUInP-PPu0smzY8aijAbVfHjLscpn/view)  
+
 [Holy Cross Sued For Sledding Tragedy](https://drive.google.com/file/d/19lu_SysLqJp86cIUh1b8RK4zYfw7BPWC/view)  
+
 [How to Have Fun in Kimball](https://drive.google.com/file/d/154EGNaNDEPHQQkhN6iQoxySE0EnOxrCz/view)  
+
 ⭐ [The Case of the Disappearing Snow](https://drive.google.com/file/d/12YGRDhTUyksSQcOiDqijG1MaRM0GH8Ld/view)  
+
 [Bird Poem](https://drive.google.com/file/d/14JzguDhWw82oE0V9WfRGBOJj-9qdKtpP/view)  
+
 [Campus Contemplations, Pt. 2](https://drive.google.com/file/d/1na3PrdXdEgbCXN4F4pAY8H0NJ5vj1RCc/view)  
+
 ⭐ [A Night to Remember](https://drive.google.com/file/d/1rXG_D74VZYYBxxDBf1yyOFIvHdlpBZpG/view)  
+
 [Campus Contemplations, Pt. 1](https://drive.google.com/file/d/1t4XBn8Ys2fgIquoWZZAZl1tq5RPVxqkq/view)  
+
 [My Experience With That Leroy Kid](https://drive.google.com/file/d/1J6ktwDU5QVKHFc6ZMSrD3lOH18Qhl2ms/view)  
+
 [This is not just to say...](https://drive.google.com/file/d/1Uqg_oa6xbJCkv4S_69qvrHgiePtUw1In/view)  
+
 [A Comprehensive Guide to the Science Complex](https://drive.google.com/file/d/1_Y2L9fJuT44wxdtCQILQrUH2olBuFALA/view)  
+
 [The Sodium Diet](https://drive.google.com/file/d/11SFD09chIwWxZjrxmAM962YxUl-WBZj0/view)  
+
 [Job Posting – All Students Eligible!](https://drive.google.com/file/d/1-BJDKsBaF3t4UsLQJhND8TGTkN_EcnHc/view)  
+
 [Student Artist Makes a Commotion, Fire Department Called](https://drive.google.com/file/d/1TdG9aBeF4mBI-1D37xr0KQz4FT13fc-g/view)  
+
 [The New Equipment at the Jo](https://drive.google.com/file/d/1nDK8mYf3jRGT3ic17QTBmapFy0vbnb5v/view)  
+
 [Live from Cool Beans: Milkshake Tier List](https://drive.google.com/file/d/1Qh2SF-DyThHD7a6w8kzPTEwLzED896fC/view)  
+
 ⭐ [Building Snowmen On the Hill](https://drive.google.com/file/d/1ldMJeUu21ga5LT2nOAFz4cjXeFfuMi5S/view)  
+
 [Recorded Phone Call from 2-11-2021](https://drive.google.com/file/d/1whklJXJ3NDEP1gouxWxa0K_R9HOoOGmo/view)  
+
 [They Took Away Our Campus, and Now They’re Taking Away Halloween](https://drive.google.com/file/d/1tismJebf9XTbJ5j3tYiSy73WE2MmQ0RF/view)  
+
 [There is a Monster on Campus. Please Believe Me.](https://drive.google.com/file/d/1k-oFAjw6o4Ba9je2fNEYYzge7E1x2JCE/view)  
+
 [A Tale of a Freshman](https://drive.google.com/file/d/1dVVWR9NMTLjsvBPLQ_XLakWzHj9gzi-w/view)
