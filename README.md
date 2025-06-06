@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-I'm Michael and I come from New York. My role in this world changes regularly—but more often than not, I’m a programmer, researcher, writer, or some combination thereof.
+I'm Michael and I come from New York. My role in this world shifts like early light—ever-changing, yet cast in familiar hues: programming, research, writing, or some blend of the three. Most often, it's fueled by curiosity, the courage to build something extraordinary, and a cup of matcha.
 
 ## About me
 
