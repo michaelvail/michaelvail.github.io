@@ -89,4 +89,4 @@ Starred articles indicate that I am proud of my work to a higher degree than usu
 [Recorded Phone Call from 2-11-2021](https://docs.google.com/document/d/159jsfaT8IpZQXtaj7mlNglkfv1yiB-p-nAb_WwWm2Vw/edit?usp=sharing)  
 [They Took Away Our Campus, and Now They’re Taking Away Halloween](https://docs.google.com/document/d/1r2BHX0EXYHf1QGv-khNj_J7acmY1fQv5rU8F16cQRHQ/edit?usp=sharing)  
 [There is a Monster on Campus. Please Believe Me.](https://docs.google.com/document/d/1IpTE2AMvSeKGqQIIKCyAIGZCzcvIDXl--qDwywebSME/edit?usp=sharing)  
-[A Tale of a Freshman](/Articles/A-Tale-of-a-Freshman.html)
+[A Tale of a Freshman](https://drive.google.com/file/d/1dVVWR9NMTLjsvBPLQ_XLakWzHj9gzi-w/view)
