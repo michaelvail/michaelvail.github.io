@@ -1,3 +1,5 @@
+Oct. 21, 2022
+
 # “Theory:
 
 **Michael Vail ‘24**
