@@ -73,7 +73,7 @@ Starred articles indicate that I am proud of my work to a higher degree than usu
 
 [The Last Spire](https://drive.google.com/file/d/110D0Yrsx_0wQOQPT5yX15jLFnYmlUpqL/view)  
 
-[Unfocused Group #1: Self-Driving Cars and Microwaves](https://drive.google.com/file/d/1NRgKxF5D1dpr4MZz4MfBnss6vsCUuC2d/view)  
+⭐ [Unfocused Group #1: Self-Driving Cars and Microwaves](https://drive.google.com/file/d/1NRgKxF5D1dpr4MZz4MfBnss6vsCUuC2d/view)  
 
 [BREAKING: Joe Biden Stays in Power Following 2022 Election](https://drive.google.com/file/d/1hhX6ZIT27MFBdZgleNIZb5FyOnj_pNUu/view)  
 
@@ -83,9 +83,9 @@ Starred articles indicate that I am proud of my work to a higher degree than usu
 
 [The Holy Cross Mission](https://drive.google.com/file/d/1ktgkf2ycdVK3NWYxRAcL5qCH4ozZVyBo/view)
 
-["Theory:](https://drive.google.com/file/d/1k-y927nfbTmM3wSHmCl_Xfckyc5gTnLJ/view)  
+⭐ ["Theory:](https://drive.google.com/file/d/1k-y927nfbTmM3wSHmCl_Xfckyc5gTnLJ/view)  
 
-⭐ [President Rougeau Beats Colgate in Intense Football Match](https://drive.google.com/file/d/17aeqfpKSVV0f1SdSli8O0DOGv58rh-fk/view)  
+[President Rougeau Beats Colgate in Intense Football Match](https://drive.google.com/file/d/17aeqfpKSVV0f1SdSli8O0DOGv58rh-fk/view)  
 
 ⭐ [The Dunkin' Runner](https://drive.google.com/file/d/17Bm8VSbGtb0WcEvJ6xJXjuCCAt0Mjv8F/view)  
 
