@@ -40,6 +40,6 @@ That evening, as I made my daily excursion to Cool Beans, I witnessed someone ur
 
 *A grotesque drawing I made of the snowman using my laptop trackpad, which is somehow not as grotesque as the real thing.*
 
- ![snowman](Images/snowman.png)
+ ![snowman](/Images/snowman.png)
 
 **Image courtesy of Michael Vail ‘24 (why am I taking credit for this?)**
