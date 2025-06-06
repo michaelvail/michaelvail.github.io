@@ -6,6 +6,8 @@ Sep. 24, 2021
 
 *I’m the Map, I’m the Map, I’m the Map, I’m the Map, I’m the Map!*
 
+#
+
 I’ve gotten a lot of questions about Holy Cross’ prestigious Integrated Science Complex. Students across campus love the complex; many love it for its architecture, others enjoy the convenience of the cafe, and everyone says, “At least I don’t have to walk all the way to Stein.”
 
 The only drawback of our beloved STEM hub is that it can be quite confusing to students who are unfamiliar with its design. Truth be told, this is my first semester of in-person classes, so my experience is just as limited. But after a few hours of wandering around, I think I’m ready to introduce my *Comprehensive Guide to the Science Complex*™.
