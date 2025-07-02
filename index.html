@@ -14,20 +14,21 @@
 
         <!-- Styles -->
         <style>
-            html {
-            visibility: hidden;
-            opacity: 0;
-            }
-            body {
-            margin: 0;
+            html { visibility: hidden; opacity: 0; }
+            body { margin: 0; }
+
+            #scroll-hint .mobile { display: none; }
+            #scroll-hint .desktop { display: block; }
+
+            @media (max-width: 768px) {
+                #scroll-hint .mobile { display: block; }
+                #scroll-hint .desktop { display: none; }
             }
         </style>
       <script type="module" crossorigin src="/assets/index-C6ek5VHk.js"></script>
       <link rel="stylesheet" crossorigin href="/assets/index-CpSM6_oX.css">
     </head>
     <body>
-
-        
         <canvas id="bg"></canvas>
 
         <div id="loading-overlay">
