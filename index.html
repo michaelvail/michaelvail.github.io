@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Metadata -->
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <title>Michael Vail</title>
+        <link rel="icon" type="image/x-icon" href="/assets/brain-icon-Dla7_U6K.png" />
+
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Quicksand:wght@300..700&display=swap" rel="stylesheet" />
+
+        <!-- Styles -->
+        <style>
+            html {
+            visibility: hidden;
+            opacity: 0;
+            }
+            body {
+            margin: 0;
+            }
+        </style>
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MGP63G8DHX"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-MGP63G8DHX');
+        </script>
+
+      <script type="module" crossorigin src="/assets/index-cFM8NZSX.js"></script>
+      <link rel="stylesheet" crossorigin href="/assets/index-DLkxjX3z.css">
+    </head>
+    <body>
+        <canvas id="bg"></canvas>
+
+        <div id="loading-overlay">
+            <div class="loading-dot loading-dot-1"></div>
+            <div class="loading-dot loading-dot-2"></div>
+            <div class="loading-dot loading-dot-3"></div>
+        </div>
+
+        <div id="scroll-hint">Scroll to explore</div>
+
+        <div id="brain-label" style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            "></div>
+
+        <div id="nav">
+            <span class="nav-dot" data-index="0"></span>
+            <span class="nav-dot" data-index="1"></span>
+            <span class="nav-dot" data-index="2"></span>
+            <span class="nav-dot" data-index="3"></span>
+            <span class="nav-dot" data-index="4"></span>
+            <span class="nav-dot" data-index="5"></span>
+        </div>
+
+        <div id="scroll-indicator">
+            <!-- Up arrows -->
+            <div class="arrow-wrapper up"><div class="arrow"></div></div>
+            <div class="arrow-wrapper up"><div class="arrow"></div></div>
+            <div class="arrow-wrapper up"><div class="arrow"></div></div>
+
+            <div style="height: 8px;"></div>
+
+            <!-- Down arrows -->
+            <div class="arrow-wrapper down"><div class="arrow"></div></div>
+            <div class="arrow-wrapper down"><div class="arrow"></div></div>
+            <div class="arrow-wrapper down"><div class="arrow"></div></div>
+        </div>
+
+        <div id="tap-indicator">
+            <div class="ring"></div>
+            <div class="ring"></div>
+            <div class="ring"></div>
+        </div>
+
+        <main>
+            <section id="about" class="scrollable">
+                <div class = "content-wrapper">
+                    <h1>Hello world! 👋</h1>
+                    <blockquote class="bio">I’m Michael and I come from New York. My role in this world shifts like early light—everchanging, yet cast in familiar hues: programmer, researcher, writer, teacher, or some blend of these. Most often, I’m fueled by curiosity, the courage to build something extraordinary, and a cup of matcha.</blockquote>
+                    
+                    <h3>My journey</h3>
+                    <p><strong>2025–Present:</strong> PhD Student in Psychology (Cognitive and Comparative Psychology) <small>CUNY Graduate Center</small><br />
+                    <strong>2025–Present:</strong> Teaching Fellowship <small>Queens College</small><br />
+                    <strong>2024–2025:</strong> VENLab Manager <small>Brown University</small><br />
+                    <strong>2020–2024:</strong> BA, Computer Science and Psychology <small>College of the Holy Cross</small></p>
+
+                    <h3>I have worked with</h3>
+                    <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="julia logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" height="40" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio logo" height="40" /></p>
+                </div>
+            </section>
+
+            <section id="research" class="scrollable">
+                <div class = "content-wrapper">
+                    <h2>Previous research</h2>
+                    <details>
+                        <summary>Higher quality narrative results in better video gaming experience but only for higher quality graphics <small>Psychonomic Society, 2025</small></summary>
+                        <p><b>Abstract:</b> Better narrative and graphics quality can enhance the video game experience by “transporting” users into a virtual world. We created low versus high narrative quality by varying vocabulary imaginativeness, relevant details, irrelevant details, and conciseness. Texture resolution and polygon count were changed to create low versus high graphics quality. Seventy-five undergraduate participants played a text-choice-based interactive video game in an immersive desktop environment. Results show that narrative quality had a main effect on narrative experience satisfaction, narrative transportation, presence, and social presence. Graphics quality had the main effect only on visual aesthetics. A high-quality narrative resulted in a better video gaming experience than a lower-quality narrative, but only in the higher-graphics condition. Females experienced more enjoyment, visual aesthetics, and presence than males. Our findings show that improving the narrative quality more than the graphics quality of a text-choice-based interactive video game can improve users’ gaming experience, with some gender effects.</p>
+                    </details>
+                    <p>
+                        <a href="https://github.com/michaelvail/michaelvail.github.io/blob/3f0d9b9d7ad2a9f8afbe02165bf52efc4a9ba825/files/Narrative%20Quality%20Affects%20Narrative%20Satisfaction%2C%20Narrative%20Transportation%2C%20and%20Social%20Presence%20of%20Story-Driven%20Video%20Games%20(Brown%20CoPsy%20Retreat%202025).pdf">Narrative quality affects narrative satisfaction, narrative transportation, and social presence of story-driven video games</a> <small>Brown University CoPsy Department Retreat, 2025</small>
+                    </p>
+                    <details>
+                        <summary><a href="https://github.com/michaelvail/michaelvail.github.io/blob/425bcf4472945c287bc713af5a4853c70aac4b16/files/Effects%20of%20narrative%20quality%20and%20graphics%20quality%20on%20virtual%20story-driven%20experience%20(Psychonomics%202024).pdf">Effects of narrative quality and graphics quality on virtual story-driven experience</a> <small>Psychonomic Society, 2024</small></summary>
+                        <p><b>Abstract:</b> Virtual reality (VR) technology’s consumer usage has grown unprecedentedly. VR media creators leverage narrative-driven factors (e.g., a captivating plot) to maximize users’ engagement and enhance presence (the subjective quality of “being there” in a virtual environment) and enjoyment. These story-driven experiences can also be influenced by graphics quality. Participants played an interactive desktop VR game. Using a 2 × 2 experimental design, we measured participants’ experiences in high versus low narrative quality conditions (varying in imaginativeness of vocabulary, amount of relevant and irrelevant details, and conciseness) and high versus low graphics quality conditions (varying in texture resolution and polygon count). Preliminary results suggest interactions between narrative and graphics quality for total playtime, presence, social presence, attitude alignment, visual aesthetics, and motion sickness. Higher graphics quality enhanced users’ enjoyment, donation amount, and narrative transportation. Both manipulations affected story-driven experiences, but graphics quality had stronger effects.</p>
+                    </details>
+                    <p>
+                        <a href="https://github.com/michaelvail/michaelvail.github.io/blob/3f0d9b9d7ad2a9f8afbe02165bf52efc4a9ba825/files/A%20Social%20Synchrony%20Task%20for%20Evaluating%20Differences%20in%20Social%20Connectedness%20(NEURON%202024).pdf">A social synchrony task for evaluating differences in social connectedness</a> <small>NEURON, 2024</small>
+                    </p>
+                    <details>
+                        <summary><a href="https://ieeexplore.ieee.org/document/10536275">Effect of ambulatory conditions and virtual locomotion techniques on distance estimation and motion sickness of a navigated VR environment</a> <small>IEEE VR, 2024</small></summary>
+                        <p><b>Abstract:</b> We present preliminary results from a 2 X 2 between-subjects experiment. Our two IVs were ambulatory-restrictive (i.e., without locomotion) postural conditions (sitting vs. standing), and virtual navigation techniques (steering vs. teleporting). Participants navigated a complex virtual environment comprising outdoor and indoor environments for 10 minutes. We found that teleporting may result in less online distance estimation error than steering. Motion sickness was lower while teleporting than steering and when sitting than standing. Teleporting also resulted in better system usability than steering. We discuss the results' implications for VR usability.</p>
+                    </details>
+                </div>
+            </section>
+
+            <section id="vr" class="scrollable">
+                <div class = "content-wrapper">
+                    <h2>VR environments</h2>
+                    
+                    <div class="repo-card">
+                        <img src="/assets/parkhigh--n_x7XQV.png" alt="The Park" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title">The Park</div>
+                            <p>A visual novel story game I created for my first independent research project. Includes fully functional game logic, cutscenes, dynamically-appearing dialogue, user choices, and animations.</p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="repo-card">
+                        <img src="/assets/venlab-G6utLKwX.png" alt="VENLab" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title">Spatiotemporal Integration</div>
+                            <p>This project tests users' spatiotemporal integration of moving avatars. The system facilitates:
+                                <ul>
+                                    <li>Trial generation with varied crowd sizes and perturbation parameters.</li>
+                                    <li>Session setup and management for user-run experiments.</li>
+                                    <li>Real-time data collection of participant and object motion and eye tracking.</li>
+                                    <li>JSON progress saving and CSV data export.</li>
+                                    <li>Session recreation directly in the Unity editor.</li>
+                                </ul>
+                            </p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="repo-card">
+                        <img src="/assets/venlab-G6utLKwX.png" alt="VENLab" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title">Haptic Belt</div>
+                            <p>Tests the feasibility of a vibrotactile belt for providing haptic feedback in a zero-vision environment.
+                                <ul>
+                                    <li>Generates paths using all specified angle/distance pairs within a limited space.</li>
+                                    <li>Includes serial communication with an Arduino using Java helper methods.</li>
+                                    <li>Positional and rotational tracking of the subject.</li>
+                                    <li>Load trial configurations from CSV and save progress in JSON.</li>
+                                </ul> 
+                            </p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="repo-card">
+                        <img src="/assets/venlab-G6utLKwX.png" alt="VENLab" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title">Mutual Avoidance</div>
+                            <p>A multiplayer walking experiment in augmented reality for testing avoidance between two human subjects.
+                                <ul>
+                                    <li>Multiplayer networking via Unity Netcode and Unity Transport Protocol. One user hosts on the local network and the other joins the session as a client.</li>
+                                    <li>Dynamic spawning of home and goal poles in a passthrough environment.</li>
+                                    <li>Positional and rotational tracking of subjects with synchronized data collection.</li>
+                                    <li>Audio cues signaling trial phases (start, pause, end, speed changes).</li>
+                                    <li>Load trial configurations from CSV and save progress in JSON.</li>
+                                </ul>
+                            </p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="repo-card">
+                        <img src="/assets/venlab-G6utLKwX.png" alt="VENLab" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title">Single Avoidance</div>
+                            <p>A walking experiment for testing human avoidance of a virtual object.
+                                <ul>
+                                    <li>Initializes object position and motion from an input file.</li>
+                                    <li>Positional and rotational tracking of the subject and object.</li>
+                                    <li>Load trial configurations from CSV and save progress in JSON.</li>
+                                </ul>
+                            </p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="projects" class="scrollable">
+                <div class = "content-wrapper">
+                    <h2>Independent projects</h2>
+                    
+                    <div class="repo-card">
+                        <img src="/assets/maomao-zoVA6mnu.jpg" alt="Maomao" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title"><a href="https://github.com/michaelvail/civ-6-maomao">Civilization VI: Maomao Leader Pack</a></div>
+                            <p>A mod that introduces a new leader and civilization to the game.</p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="repo-card">
+                        <img src="/assets/receptionist-BXT1oqbq.png" alt="Receptionist" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title"><a href="https://github.com/michaelvail/telegram-receptionist">Telegram Receptionist</a></div>
+                            <p>A friendly AI-powered receptionist bot for Telegram.</p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="repo-card">
+                        <img src="/assets/brain-icon-Dla7_U6K.png" alt="Website" class="repo-image">
+                        <div class="repo-content">
+                            <div class="repo-title">This website!</div>
+                            <p>Developed using Three.js.</p>
+                            <div class="repo-language">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" height="40" />
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" height="40" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="articles" class="scrollable">
+                <div class = "content-wrapper">
+                    <h2>Articles</h2>
+                    <p>During my undergraduate years at the College of the Holy Cross, I wrote for <em>The Spire</em>, the official student newspaper. I began as a staff writer, soon promoted to editor and then chief editor of the satire and creative writing section. My goal with every article was to make you laugh; if not laugh, smile; if not smile, wonder, <em>I don’t know what I just read—but I’m glad I read it. I’m a changed person now.</em><br><small>⭐ Recommended articles</small></p>
+
+                    <p><a href="https://drive.google.com/file/d/15ia5TPialnsmJS3agPfc9QJ5dAO-sm_W/view">Scooby-Doo: Fair Trade or Exploitment?</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/15Udr4BPIoMH2XvTyXcZrQfReyCKzhW3I/view">Graduation Day</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1AqLK2_sxFMuMMkf1gKq3Sa1IXeNJJAQl/view">Netflix Announces Innovative Policy Changes</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/15vBJ9b5TLd0HXMsjWfLRoq2ywnrzSuuv/view">Optimizing Your Reaction Time for Enrollment</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1yQraMU9I5-bH-MHkVvu4xCY9e2zCO1Vt/view">BREAKING: Congressmen Expose TikTok’s Development Failures</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/11WK4EVI6gm6MHKqioilXAnPyZalBAiFb/view">Gaming &amp; Esports Club Touches Grass: An Interview With Sebastian Johns ‘23</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1Ejrfc8M0F4RDrJXfIn71XX2acAy0Wx6v/view">A Deep Dive Into Upcoming Events on myHC</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/110L740lQzZ76gq31zxlSo86vzpYbW6fN/view">Holy Cross Theatre Premieres Musical <em>Company</em></a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/1uJKIPsK20sfz0YBC4dELp8KGqjvnxkIM/view">Report: “Can Robots Feel Pain?”</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1Mb9XrMrIoek6EvBnjUFVGkTczUrc0MV0/view">Surviving the Worcester Winter</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1ZpurnUvXLBBJHP8mxAmYXzSyotw-LxLS/view">My Resume (Royalty-Free)</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/110D0Yrsx_0wQOQPT5yX15jLFnYmlUpqL/view">The Last Spire</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/1NRgKxF5D1dpr4MZz4MfBnss6vsCUuC2d/view">Unfocused Group #1: Self-Driving Cars and Microwaves</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1hhX6ZIT27MFBdZgleNIZb5FyOnj_pNUu/view">BREAKING: Joe Biden Stays in Power Following 2022 Election</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/13PYMdWRBQ1rKbPszgiAUWVEQglIXFK-k/view">My Spring 2023 Course Recommendations</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1NiwBIEn3VzTGVJjRyBKZTjfV_BiOiniX/view">Family Weekend Account From a Holy Cross Father</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1ktgkf2ycdVK3NWYxRAcL5qCH4ozZVyBo/view">The Holy Cross Mission</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/1k-y927nfbTmM3wSHmCl_Xfckyc5gTnLJ/view">“Theory:</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/17aeqfpKSVV0f1SdSli8O0DOGv58rh-fk/view">President Rougeau Beats Colgate in Intense Football Match</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/17Bm8VSbGtb0WcEvJ6xJXjuCCAt0Mjv8F/view">The Dunkin’ Runner</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1nUMnHwbG-oOYvpE_62vmimCbySY26W-i/view">What is Going On With Orientation?</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/10tiNUInP-PPu0smzY8aijAbVfHjLscpn/view">Author’s Note</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/19lu_SysLqJp86cIUh1b8RK4zYfw7BPWC/view">Holy Cross Sued For Sledding Tragedy</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/154EGNaNDEPHQQkhN6iQoxySE0EnOxrCz/view">How to Have Fun in Kimball</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/12YGRDhTUyksSQcOiDqijG1MaRM0GH8Ld/view">The Case of the Disappearing Snow</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/14JzguDhWw82oE0V9WfRGBOJj-9qdKtpP/view">Bird Poem</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1na3PrdXdEgbCXN4F4pAY8H0NJ5vj1RCc/view">Campus Contemplations, Pt. 2</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/1rXG_D74VZYYBxxDBf1yyOFIvHdlpBZpG/view">A Night to Remember</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1t4XBn8Ys2fgIquoWZZAZl1tq5RPVxqkq/view">Campus Contemplations, Pt. 1</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1J6ktwDU5QVKHFc6ZMSrD3lOH18Qhl2ms/view">My Experience With That Leroy Kid</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1Uqg_oa6xbJCkv4S_69qvrHgiePtUw1In/view">This is not just to say…</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1_Y2L9fJuT44wxdtCQILQrUH2olBuFALA/view">A Comprehensive Guide to the Science Complex</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/11SFD09chIwWxZjrxmAM962YxUl-WBZj0/view">The Sodium Diet</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1-BJDKsBaF3t4UsLQJhND8TGTkN_EcnHc/view">Job Posting – All Students Eligible!</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1TdG9aBeF4mBI-1D37xr0KQz4FT13fc-g/view">Student Artist Makes a Commotion, Fire Department Called</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1nDK8mYf3jRGT3ic17QTBmapFy0vbnb5v/view">The New Equipment at the Jo</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1Qh2SF-DyThHD7a6w8kzPTEwLzED896fC/view">Live from Cool Beans: Milkshake Tier List</a></p>
+
+                    <p>⭐ <a href="https://drive.google.com/file/d/1ldMJeUu21ga5LT2nOAFz4cjXeFfuMi5S/view">Building Snowmen On the Hill</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1whklJXJ3NDEP1gouxWxa0K_R9HOoOGmo/view">Recorded Phone Call from 2-11-2021</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1tismJebf9XTbJ5j3tYiSy73WE2MmQ0RF/view">They Took Away Our Campus, and Now They’re Taking Away Halloween</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1k-oFAjw6o4Ba9je2fNEYYzge7E1x2JCE/view">There is a Monster on Campus. Please Believe Me.</a></p>
+
+                    <p><a href="https://drive.google.com/file/d/1dVVWR9NMTLjsvBPLQ_XLakWzHj9gzi-w/view">A Tale of a Freshman</a></p>
+                </div>
+            </section>
+
+            <section id="hokey" class="scrollable">
+                <div class = "content-wrapper">
+                    <h2>The Hokey Pokey</h2>
+                    <p>
+                        I immensely dislike the Hokey Pokey.<br><br>
+                        It is, inherently, a flawed dance. In each verse, it instructs the dancer to "do the Hokey Pokey," a step that is never explicitly defined and presumably refers to the dance in and of itself. This results in a recursive loop without an end condition.<br><br>
+                        Consider the following C++ program, which attempts to implement the Hokey Pokey but will inevitably run into a stack overflow error due to infinite recursion:
+                    </p>
+                    <pre><code>
+    #include &lt;iostream&gt;
+    #include &lt;vector&gt;
+    using namespace std;
+
+    class BodyPart {
+    public:
+        string type;
+        string side;
+
+        BodyPart() = default;
+        BodyPart(string t, string s) : type(t), side(s) {}
+
+        void PutIn() { cout &lt;&lt; "You put your " &lt;&lt; side &lt;&lt; " " &lt;&lt; type &lt;&lt; " in." &lt;&lt; endl; }
+        void PutOut() { cout &lt;&lt; "You put your " &lt;&lt; side &lt;&lt; " " &lt;&lt; type &lt;&lt; " out." &lt;&lt; endl; }
+        void ShakeAllAbout() { cout &lt;&lt; "You shake your " &lt;&lt; side &lt;&lt; " " &lt;&lt; type &lt;&lt; " all about." &lt;&lt; endl; }
+    };
+
+    // Initialize body parts
+    BodyPart leftFoot("foot", "left");
+    BodyPart rightFoot("foot", "right");
+    BodyPart leftHand("hand", "left");
+    BodyPart rightHand("hand", "right");
+    BodyPart head("head", "");
+    BodyPart wholeSelf("self", "");
+    vector<BodyPart*> bodyParts = { &leftFoot, &rightFoot, &leftHand, &rightHand, &head, &wholeSelf };
+
+    void HokeyPokey();
+    void TurnYourselfAround();
+
+    int main() {
+        HokeyPokey();
+    }
+
+    void HokeyPokey() {
+        for (BodyPart* part : bodyParts) {
+            part->PutIn();
+            part->PutOut();
+            part->PutIn();
+            part->ShakeAllAbout();
+            HokeyPokey(); // This is where the infinite recursion occurs
+            TurnYourselfAround();
+        }
+    }
+
+    void TurnYourselfAround() {
+        cout &lt;&lt; "You turn yourself around." &lt;&lt; endl;
+    }
+                    </code></pre>
+                </div>
+            </section>
+        </main>
+
+        <script>
+            // Detect if the device is mobile
+            const isMobile = /Mobi|Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+            // Update the scroll hint text accordingly
+            window.addEventListener('DOMContentLoaded', () => {
+                const hint = document.getElementById('scroll-hint');
+                if (hint) {
+                    hint.textContent = isMobile ? 'Tap to explore' : 'Scroll to explore';
+                }
+            });
+        </script>
+    </body>
+</html>
+
